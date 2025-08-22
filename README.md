@@ -37,7 +37,7 @@ PowerBI DAX SQL Sales Analytics
 *Business Impact:*
 - Identified *20% revenue growth opportunities* in underperforming regions
 ---
-#### *3. [LMS Analytics (Collaboration)](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
+#### *3. [LMS Analytics (Collaboration)](https://github.com/Olajide-Adara/RDAMP_LMS_Analytics_RCHG)*
 *Key Achievements:*
 - Analyzed *learning management system* data to track course engagement
 - Built *completion rate forecasting models*
