@@ -17,7 +17,7 @@ As a data analyst, I transform complex datasets into clear, actionable insights 
 * Machine Learning
 ---
 ### Project Highlights
-#### *1. RDAMP Dimensional Model (PowerBI)*
+#### *1. [RDAMP Dimensional Model (PowerBI)](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
 *Key Achievements:*
 - Designed a *star schema dimensional model* for optimized analytics
 - Implemented PowerBI relationships between fact/dimension tables
@@ -27,7 +27,7 @@ PowerBI DAX Dimensional Modeling SQL
 *Business Impact:*
 - Reduced report generation time by *40%* through optimized data modeling
 ---
-#### *2. RDAMP Sales Analysis*
+#### *2. [RDAMP Sales Analysis](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
 *Key Achievements:*
 - Developed *interactive sales dashboards* with YOY growth analysis
 - Implemented *RFM (Recency-Frequency-Monetary) analysis* for customer segmentation
@@ -37,7 +37,7 @@ PowerBI DAX SQL Sales Analytics
 *Business Impact:*
 - Identified *20% revenue growth opportunities* in underperforming regions
 ---
-#### *3. LMS Analytics (Collaboration)*
+#### *3. [LMS Analytics (Collaboration)](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
 *Key Achievements:*
 - Analyzed *learning management system* data to track course engagement
 - Built *completion rate forecasting models*
@@ -47,7 +47,7 @@ Python Pandas Tableau Educational Analytics
 *Business Impact:*
 - Improved course completion rates by *15%* through targeted interventions
 ---
-#### *4. Kultra Mega Stores*
+#### *4. [Kultra Mega Stores](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
 *Key Achievements:*
 - Pinpointed top-selling product category and ranked regions by sales to guide targeted marketing.
 - Profiled most valuable customers by segment and proposed strategies to grow revenue from low-performing clients.
