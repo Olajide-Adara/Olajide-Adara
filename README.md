@@ -27,7 +27,7 @@ PowerBI DAX Dimensional Modeling SQL
 *Business Impact:*
 - Reduced report generation time by *40%* through optimized data modeling
 ---
-#### *2. [RDAMP Sales Analysis](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
+#### *2. [ACE Sales Analysis](https://github.com/Olajide-Adara/ACE-Sales-Report)*
 *Key Achievements:*
 - Developed *interactive sales dashboards* with YOY growth analysis
 - Implemented *RFM (Recency-Frequency-Monetary) analysis* for customer segmentation
