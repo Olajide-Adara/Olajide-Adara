@@ -17,7 +17,7 @@ As a data analyst, I transform complex datasets into clear, actionable insights 
 * Machine Learning
 ---
 ### Project Highlights
-#### *1. [RDAMP Dimensional Model (PowerBI)](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
+#### *1. [RDAMP Dimensional Model (PowerBI)](https://github.com/Olajide-Adara/RDAMP-Dimensional-Model-PowerBI/edit/main/README.md)*
 *Key Achievements:*
 - Designed a *star schema dimensional model* for optimized analytics
 - Implemented PowerBI relationships between fact/dimension tables
