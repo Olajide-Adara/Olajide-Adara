@@ -47,7 +47,7 @@ Python Pandas Tableau Educational Analytics
 *Business Impact:*
 - Improved course completion rates by *15%* through targeted interventions
 ---
-#### *4. [Kultra Mega Stores](https://github.com/Olajide-Adara/Olajide-Adara/edit/main/README.md)*
+#### *4. [Kultra Mega Stores](https://github.com/Olajide-Adara/Kultra-Mega-Stores-Inventory-)*
 *Key Achievements:*
 - Pinpointed top-selling product category and ranked regions by sales to guide targeted marketing.
 - Profiled most valuable customers by segment and proposed strategies to grow revenue from low-performing clients.
